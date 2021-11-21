@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FE3304B9-70DB-4905-A040-1101FD0B4697}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoLibrary/PhysicalProductModel.cs">
+    <Files>
+      <File FileName="ConsoleUI/App.config" Line="1" Column="1" />
+      <File FileName="ConsoleUI/Program.cs" />
+      <File FileName="DemoLibrary/CustomerModel.cs" />
+      <File FileName="DemoLibrary/PhysicalProductModel.cs" Line="16" Column="48" />
+      <File FileName="DemoLibrary/IProductModel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfaceDemo" expanded="True">
+            <Node name="ConsoleUI" expanded="True" />
+            <Node name="DemoLibrary" expanded="True">
+              <Node name="PhysicalProductModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

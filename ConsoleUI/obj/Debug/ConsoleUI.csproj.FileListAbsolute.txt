@@ -1,0 +1,10 @@
+/Users/gaokang/Downloads/InterfacesInCSharp/InterfaceDemo_Start/ConsoleUI/bin/Debug/ConsoleUI.exe.config
+/Users/gaokang/Downloads/InterfacesInCSharp/InterfaceDemo_Start/ConsoleUI/bin/Debug/ConsoleUI.exe
+/Users/gaokang/Downloads/InterfacesInCSharp/InterfaceDemo_Start/ConsoleUI/bin/Debug/ConsoleUI.pdb
+/Users/gaokang/Downloads/InterfacesInCSharp/InterfaceDemo_Start/ConsoleUI/bin/Debug/DemoLibrary.dll
+/Users/gaokang/Downloads/InterfacesInCSharp/InterfaceDemo_Start/ConsoleUI/bin/Debug/DemoLibrary.pdb
+/Users/gaokang/Downloads/InterfacesInCSharp/InterfaceDemo_Start/ConsoleUI/obj/Debug/ConsoleUI.csproj.AssemblyReference.cache
+/Users/gaokang/Downloads/InterfacesInCSharp/InterfaceDemo_Start/ConsoleUI/obj/Debug/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/gaokang/Downloads/InterfacesInCSharp/InterfaceDemo_Start/ConsoleUI/obj/Debug/ConsoleUI.csproj.CopyComplete
+/Users/gaokang/Downloads/InterfacesInCSharp/InterfaceDemo_Start/ConsoleUI/obj/Debug/ConsoleUI.exe
+/Users/gaokang/Downloads/InterfacesInCSharp/InterfaceDemo_Start/ConsoleUI/obj/Debug/ConsoleUI.pdb
